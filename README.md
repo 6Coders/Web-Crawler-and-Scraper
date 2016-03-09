@@ -1,3 +1,3 @@
-# Web-Crawler-and-Scraper
+# Web-Crawlers-and-Scrapers
 
-# Collection of Web Crawler and Scraper made by Our Team
+# Collection of Web Crawlers and Scrapers made by Our Team
